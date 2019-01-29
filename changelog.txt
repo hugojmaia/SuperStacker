@@ -1,0 +1,8 @@
+1.0.2
+Removed the max stack increase from copper, silver and gold coins. They were not getting converted automatically when reaching 100.
+
+1.0.1
+Added image and linked to github.
+
+1.0.0
+It's working.
